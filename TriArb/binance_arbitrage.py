@@ -4,8 +4,8 @@ import threading
 from binance.client import Client
 from binance.websockets import BinanceSocketManager
 
-api_key = "xDr5QXtDLVei1IRaq2SNfRRxjNhTjuEOgM0MM9fuYi5Kr7BclHELHVLhR3dhOHuj"
-api_secret = "RroWlQwwIbtdYNNFSc51EcI0u0K8N6T1BxdTTLkmMUgjrzng7FYpNNMeKdS2IaFW"
+api_key = "SECRET API KEY"
+api_secret = "SECRET API KEY"
 
 def floor(n, r):
     if r <= 0:
